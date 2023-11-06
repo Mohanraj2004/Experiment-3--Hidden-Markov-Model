@@ -15,8 +15,8 @@ Step 9:Find the most likely sequence of hidden states by selecting the hidden st
 
 ##  Program:
 ```
-DEVELOPED BY:AMURTHA VAAHINI.KN
-REGISTER NO: 212222240008
+DEVELOPED BY:S.Mohan raj
+REGISTER NO: 212221230065
 ```
 Import the necessary packages
 ```
